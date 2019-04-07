@@ -1,12 +1,12 @@
 {
   "connectlinks": [
     {
-      "name": "Twitter",
-      "url": "https://twitter.com/stephendouglas"
-    },
-    {
       "name": "Facebook",
       "url": "https://www.facebook.com/stephen.douglas.73550794"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/stephendouglas"
     }
   ]
 }
